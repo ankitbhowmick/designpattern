@@ -1,7 +1,7 @@
-package SingletonPackage;
+package SingletonPattern;
 
 
-public class Client {
+public class SingletonClient {
     public static void main(String[] args) {
 
         Singleton singleton = Singleton.getInstance();
